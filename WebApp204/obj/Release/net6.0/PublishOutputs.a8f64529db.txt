@@ -1,0 +1,7 @@
+C:\Users\jcpena\source\vs\WebApp204\WebApp204\obj\Release\net6.0\PubTmp\Out\WebApp204.exe
+C:\Users\jcpena\source\vs\WebApp204\WebApp204\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jcpena\source\vs\WebApp204\WebApp204\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\jcpena\source\vs\WebApp204\WebApp204\obj\Release\net6.0\PubTmp\Out\WebApp204.dll
+C:\Users\jcpena\source\vs\WebApp204\WebApp204\obj\Release\net6.0\PubTmp\Out\WebApp204.deps.json
+C:\Users\jcpena\source\vs\WebApp204\WebApp204\obj\Release\net6.0\PubTmp\Out\WebApp204.runtimeconfig.json
+C:\Users\jcpena\source\vs\WebApp204\WebApp204\obj\Release\net6.0\PubTmp\Out\WebApp204.pdb
